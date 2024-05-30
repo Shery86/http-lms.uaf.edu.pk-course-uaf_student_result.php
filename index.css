@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    text-align: center;
+    font-size: large;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    font-size: 24px;
+}
+#two{
+    background-color: rgb(7, 128, 242);
+    color: white;
+    height: 35px;
+    width: 55px;
+    border-color: rgb(7, 128, 242);
+    border-radius: 7px;
+}
+#three{
+    width: 700px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-style: ridge;
+    border-width: 0.25px;
+    border-color: rgb(7, 128, 242);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#four{
+    width: 700px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-style: ridge;
+    border-width: 0.25px;
+    border-color: rgb(7, 128, 242);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-top: 0px;
+}
+#five{
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-style: ridge;
+    font-weight: bold;
+    border-width: 0.25px;
+    border-color: rgb(7, 128, 242);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-top: 0px;
+    border-right: 0px;
+}
+#six{
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-style: ridge;
+    font-weight: bold;
+    border-width: 0.25px;
+    border-color: rgb(7, 128, 242);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-top: 0px;
+    border-right: 0px;
+}
+#seven{
+    width: 650px;
+    margin-left: 700px;
+}
